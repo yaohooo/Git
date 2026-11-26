@@ -1,1 +1,1 @@
-﻿print('main version')
+print('merged ok')
